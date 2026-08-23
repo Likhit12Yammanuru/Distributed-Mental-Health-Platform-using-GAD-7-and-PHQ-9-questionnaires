@@ -1,0 +1,21 @@
+GADSeverity,PHQSeverity,Recommendation
+Minimal Anxiety,Minimal Depression,"No significant symptoms. Maintain a healthy lifestyle with regular sleep, exercise, and social engagement. Periodic self-check-ins can be helpful."
+Minimal Anxiety,Mild Depression,"Symptoms are mild. Suggest lifestyle modifications such as regular exercise, healthy diet, mindfulness, and monitoring mood changes."
+Minimal Anxiety,Moderate Depression,"Moderate depression detected. Recommend speaking to a mental health professional. Encourage journaling, peer support, and structured daily routines."
+Minimal Anxiety,Moderately Severe Depression,Depression symptoms are significant. Strongly recommend consulting a therapist or psychiatrist. Cognitive Behavioral Therapy (CBT) and possible medication may be advised.
+Minimal Anxiety,Severe Depression,Severe depressive symptoms with low anxiety. Immediate professional intervention is required. Risk assessment and intensive therapy should be considered.
+Mild Anxiety,Minimal Depression,"Mild anxiety noted. Practice stress-reducing activities like meditation, time management, and light physical activity. No immediate intervention needed."
+Mild Anxiety,Mild Depression,"Both mild symptoms present. Suggest self-help books, support groups, and stress-management tools. Monitor if symptoms worsen."
+Mild Anxiety,Moderate Depression,Symptoms suggest moderate mental health concern. Therapy is recommended. Encourage open discussions with trusted individuals.
+Mild Anxiety,Moderately Severe Depression,Symptoms are concerning. Seek professional help. Therapeutic interventions and medication may be appropriate.
+Mild Anxiety,Severe Depression,High depression with mild anxiety. Immediate psychiatric consultation advised. Crisis support may be necessary.
+Moderate Anxiety,Minimal Depression,"Moderate anxiety present. Recommend CBT, guided breathing techniques, and reducing stimulant intake (e.g., caffeine)."
+Moderate Anxiety,Mild Depression,"Manageable symptoms. Consider counseling, relaxation exercises, and digital mental health apps."
+Moderate Anxiety,Moderate Depression,Co-occurrence of anxiety and depression. Recommend regular therapy sessions and structured activities. Medication evaluation may be appropriate.
+Moderate Anxiety,Moderately Severe Depression,"Significant psychological distress. Strongly advise mental health treatment, including therapy and psychiatric evaluation."
+Moderate Anxiety,Severe Depression,"Severe depressive symptoms with anxiety. Immediate, multi-disciplinary mental health support required. Safety planning recommended."
+Severe Anxiety,Minimal Depression,"Anxiety is severe. Suggest clinical evaluation, CBT, and possibly anti-anxiety medications. Limit stressors."
+Severe Anxiety,Mild Depression,Severe anxiety with mild depression. Intensive therapy advised. Support network and structured lifestyle changes may help.
+Severe Anxiety,Moderate Depression,Severe anxiety and moderate depression. Professional diagnosis needed. Possible combination of medication and therapy.
+Severe Anxiety,Moderately Severe Depression,High severity. Urgent intervention required. Therapeutic and pharmacological treatment advised. Monitor for risk.
+Severe Anxiety,Severe Depression,"Severe symptoms on both scales. Immediate psychiatric attention necessary. Crisis intervention, medication, and continuous care required."
