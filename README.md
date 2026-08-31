@@ -17,6 +17,6 @@ node index.js
 
 Result service:
 
-cd services/result-service
+cd backend/result-service
 
 node index.js
