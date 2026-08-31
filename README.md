@@ -4,15 +4,19 @@ Developed a distributed web-based mental health assessment platform using React.
 Frontend:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 Questionnaire service:
 
 cd backend/questionnaire-service
+
 node index.js
 
 Result service:
 
 cd services/result-service
+
 node index.js
